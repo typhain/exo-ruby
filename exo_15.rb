@@ -1,4 +1,4 @@
-num = 2019
+num = 2017
 puts "Donne moi ton année de naissance"
 annee_naissance = gets.chomp.to_i
 num2 = num - annee_naissance
